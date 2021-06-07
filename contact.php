@@ -64,7 +64,7 @@ include 'classes/autoload.php';
 
                                     // mail function in php look like this  (mail(To, subject, Message, Headers, Parameters))
                                     $headers = "FROM : " . $email . "\r\n";
-                                    $myEmail = "blablabla9173@hotmail.com";
+                                    $myEmail = "rasmiadityas@gmail.com";
                                     if (mail($myEmail, "message coming from the contact form", $msg, $headers)) {
                                         echo "<div class='alert alert-success my-2'>Sent successfully</div>";
                                     } else {
