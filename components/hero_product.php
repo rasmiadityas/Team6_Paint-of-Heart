@@ -1,0 +1,3 @@
+<div class="d-flex flex-column justify-content-center align-items-center" style="background-image: url(https://images.pexels.com/photos/1194420/pexels-photo-1194420.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940); height: 50vh; background-size: cover; background-repeat: no-repeat; background-position: 50% 50%;">
+    <h1 id="pro_hero" class="text-center">The Paint That Smiles Back &#128512</h1>
+</div>

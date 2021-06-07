@@ -1,0 +1,13 @@
+<?php
+include_once("database.class.php");
+include_once("reglog.class.php");
+include_once("session.class.php");
+include_once("format.class.php");
+include_once("user.class.php");
+include_once("category.class.php");
+include_once("product.class.php");
+include_once("question.class.php");
+include_once("cart.class.php");
+include_once("stat.class.php");
+include_once("review.class.php");
+?>
